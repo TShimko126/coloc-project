@@ -6,4 +6,5 @@ core
 tmp/
 MAFs/
 CPI.txt
+allfiles.txt
 VCFinfo/
