@@ -1,0 +1,7 @@
+*.sh.e*
+*.sh.o*
+
+coloc-analysis/
+core
+tmp/
+MAFs/
