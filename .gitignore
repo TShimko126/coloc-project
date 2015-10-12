@@ -4,6 +4,7 @@
 coloc-analysis/
 core
 tmp/
+tmp_subset/
 MAFs/
 CPI.txt
 allfiles.txt
